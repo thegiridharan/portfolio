@@ -1,0 +1,23 @@
+[
+  {
+    "title": "MetaRise",
+    "description": "An SEO optimization software with AI chatbot for interactions.",
+    "techstack": "React, Node, MongoDB",
+    "image": "/metarise.png",
+    "link": "https://themetarise.vercel.app/"
+  },
+  {
+    "title": "Axolotron",
+    "description": "An Official Company website was built for Marketing and Brand Value Showcase.",
+    "techstack": "React, MongoDB, Tailwind CSS",
+    "image": "/axolotron.png",
+    "link": "https://www.axolotron.in/"
+  },
+  {
+    "title": "Living Environment",
+    "description": "An Official Website for a Construction company for their business purposes.",
+    "techstack": "React, Firebase, Tailwind CSS",
+    "image": "/livingenvironment.png",
+    "link": "https://www.livingenvironmentt.com/"
+  }
+]
