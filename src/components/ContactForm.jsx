@@ -32,7 +32,7 @@ export default function ContactForm() {
                 <p className="text-[26px] font-semibold">Contact Us</p>
                 <p className="opacity-50">We’d love to hear from you—drop us a message anytime.</p>
             </div>
-            <div className="flex items-center justify-center h-[calc(100vh-165px)]">
+            <div className="flex items-center justify-center min-h-[calc(100vh-165px)]">
             <form ref={form} onSubmit={sendEmail} className="flex flex-col gap-[15px] w-[500px] bg-white p-[40px] rounded-[7px] shadow-2xs">
                 <p>Name <span className="text-red-500">*</span></p>
                 <input placeholder="Name" name="user_name" type="text" required className="outline-1 rounded-[4px] outline-black/20 p-[4px]"  />
